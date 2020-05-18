@@ -1,0 +1,33 @@
+body {
+    background-image: url('https://wallpaper29.files.wordpress.com/2016/09/nicolas-cage-you-dont-say-wallpaper-1600x900.jpg');
+    background-size: auto 100vh;
+    font-family: Verdana;
+  }
+  
+  .menu {
+    background-color: orange;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a{
+    color: yellow;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
